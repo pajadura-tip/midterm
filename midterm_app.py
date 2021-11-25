@@ -15,4 +15,4 @@ def registration():
     return render_template("registration.html")
 
 if __name__ == "__main__":
-    design.run(host="0.0.0.0", port=5050)
+    design.run(host="0.0.0.0", port=5000)
